@@ -10,7 +10,7 @@ This banner is part of the consent management platform [Ezoic GateKeeper](https:
 
 This means that the user has to go into the options and manually untick every checkbox in order to deny cookie consent. Annoying!
 
-This extension will automatically open the consent settings when it detects that there is a cookie banner on the page and uncheck all of the cookie consent checkboxes, then save your preferences.
+This extension will automatically open the consent settings when it detects that there is a GateKeeper cookie banner on the page and uncheck all of the cookie consent checkboxes, then save your preferences.
 
 ## Demo of auto denier working (gif)
 [Any checkbox that cannot be unchecked is a required/necessary cookie/vendor]
