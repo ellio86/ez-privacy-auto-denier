@@ -1,0 +1,24 @@
+{
+    "name": "Stack overflow thread checker",
+    "description": "Chrome extension that will alert you if a stack overflow thread is outdated.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+       "activeTab",
+       "scripting",
+       "tabs",
+       "storage"
+    ],
+    "background": {
+       "service_worker": "scripts/background.js"
+    },
+    "action": {
+      "default_popup": "html/popup.html",
+      "default_icon": "content/icon.png"
+    },
+    "content_scripts": [
+      {
+        "js": ["scripts/ezPrivacyDenier.js"]
+      }
+    ]
+ }

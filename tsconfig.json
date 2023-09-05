@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+       "strict": false,
+       "module": "es2022",
+       "target": "es2022",
+       "esModuleInterop": true,
+       "sourceMap": true,
+       "rootDir": "src",
+       "outDir": "dist/js",
+       "noImplicitAny": true,
+       "noEmitOnError": true,
+       "typeRoots": [ "node_modules/@types" ]
+    }
+ }
