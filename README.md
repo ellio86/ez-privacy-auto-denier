@@ -11,6 +11,7 @@ This banner is fine as you are easily able to only accept necessary cookies usin
 This extension will automatically open the consent settings when it detects that there is a cookie banner on the page and uncheck all of the cookie consent checkboxes, then save your preferences.
 
 ## Demo of auto denier working (gif)
+[Any checkbox that cannot be unchecked is a required/necessary cookie]
 ![Gif of auto cookie consent denier working](https://i.imgur.com/gHRs298.gif)
 
 # Dev notes
