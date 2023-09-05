@@ -12,7 +12,7 @@ This means that the user has to go into the options and manually untick every ch
 
 This extension will automatically open the consent settings when it detects that there is a GateKeeper cookie banner on the page and uncheck all of the cookie consent checkboxes, then save your preferences.
 
-## Demo of auto denier working (gif)
+## Demo (gif)
 [Any checkbox that cannot be unchecked is a required/necessary cookie/vendor]
 ![Gif of auto cookie consent denier working](https://i.imgur.com/gHRs298.gif)
 
