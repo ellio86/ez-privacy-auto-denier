@@ -6,7 +6,7 @@ module.exports = {
       // Each ts file goes here
       background: path.resolve(__dirname, "..", "src", "background.ts"),
       popup: path.resolve(__dirname, "..", "src", "popup.ts"),
-      alertManager: path.resolve(__dirname, "..", "src", "alertManager.ts"),
+      ezPrivacyDenier: path.resolve(__dirname, "..", "src", "ezPrivacyDenier.ts"),
    },
    output: {
       path: path.join(__dirname, "../dist/scripts"),
