@@ -8,5 +8,8 @@ This banner is fine as you are easily able to only accept necessary cookies usin
 
 ![Ez Cookie Banner 2 without accept necessary cookies button](chrome_nsixWULImm.png)
 
-This extension will automatically open the consent settings when it detects that there is a cookie banner on the page and uncheck all of the cookie consent checkboxes, then save your preferences. 
+This extension will automatically open the consent settings when it detects that there is a cookie banner on the page and uncheck all of the cookie consent checkboxes, then save your preferences.
+
+## Demo of auto denier working (gif)
+![Gif of auto cookie consent denier working](https://i.imgur.com/gHRs298.gif)
 
